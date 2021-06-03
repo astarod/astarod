@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @astarod
+- 👋 Hi, I’m @pajew-ski, my full Name ist Michael Pajewski!
 - 👀 I’m interested in javascript and python
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on something great
