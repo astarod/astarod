@@ -5,6 +5,7 @@
 - 💞️ I’m looking to collaborate on something great.
 - ⌨️ I've mainly been using vim for about 2 years now because I can't figure out how to quit it.
 - 📫 You can contact me at m@pajew.ski
+- 🕊 Not my primary code hosting platform
 
 <!---
 astarod/astarod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
